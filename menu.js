@@ -6,7 +6,7 @@ const platos = [
   { nombre: "Zobo", descripcion: "Bebida fría de hibisco", precio: 800, categoria: "bebida", imagen: "imgenes/IMG_9463.jpeg" },
   { nombre: "Jugo de naranja", descripcion: "Natural, sin azúcar añadida", precio: 1000, categoria: "bebida", imagen: "imgenes/IMG_9464.png" },
   { nombre: "Tarta de chocolate", descripcion: "Porción con crema", precio: 1500, categoria: "postre", imagen: "imgenes/IMG_9461.jpeg" },
-  { nombre: "Helado de vainilla", descripcion: "Dos bolas con galleta", precio: 1200, categoria: "postre", imagen: "imgenes/IMG_.jpeg" }
+  { nombre: "Helado de vainilla", descripcion: "Dos bolas con galleta", precio: 1200, categoria: "postre", imagen: "imgenes/Hvainilla.jpeg" }
 ];
 
 // 2. Buscar los elementos del HTML
